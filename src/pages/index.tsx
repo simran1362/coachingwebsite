@@ -1,7 +1,8 @@
 import React from 'react';
 
+// eslint-disable-next-line import/no-named-as-default
+import ProductSection from '@/components/ProductSection';
 import Navbar from '@/components/shared/Navbar';
-import ProductSection from '@/pages/ProductSection';
 
 import MainPage from './main';
 

@@ -9,7 +9,7 @@ import Logo from './logo';
 const Navbar = () => {
   const NavbarList = getNavbarList();
   return (
-    <div className="flex flex-row items-center justify-between bg-[#813588]">
+    <div className="flex flex-row items-center justify-between bg-[#773982]">
       <div className="m-4 ml-40">
         <Logo className="scale-50" />
       </div>

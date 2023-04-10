@@ -8,7 +8,7 @@ module.exports = withBundleAnalyzer({
     dirs: ['.'],
   },
   images: {
-    domains: ['www.gstatic.com'],
+    domains: ['www.gstatic.com', 'cdn1.byjus.com'],
   },
   poweredByHeader: false,
   trailingSlash: true,
