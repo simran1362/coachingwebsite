@@ -6,7 +6,7 @@ import CardProduct from './card';
 const Product = () => {
   return (
     <div>
-      <div className="m-auto mt-24 flex w-[29rem] flex-col items-center justify-center">
+      <div className="m-auto mt-12 flex w-[29rem] flex-col items-center justify-center">
         <h1 className="text-2xl font-bold ">Comprehensive learning programs</h1>
         <h1 className="text-2xl font-bold">& classes for all students</h1>
         <p>Become lifelong learners with the best teachers,</p>
